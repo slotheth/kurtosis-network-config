@@ -22,3 +22,7 @@ This configuration file defines the setup and parameters for participants in the
 	- Slot and validator key configurations.
 	- Genesis Settings:
 	- Configure delay, gas limit, and churn limits.
+
+
+## References
+- [Kurtosis Network](https://github.com/ethpandaops/ethereum-package)
